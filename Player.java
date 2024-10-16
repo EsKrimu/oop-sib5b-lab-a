@@ -65,7 +65,7 @@ public class Player {
             System.out.println(nama + " Mati Total");
         }
         else{
-            System.out.println(nama + " Still Alive");
+            System.out.println(nama + " Masih hidup");
         }
     }
 
