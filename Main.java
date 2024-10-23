@@ -8,22 +8,22 @@ public class Main {
        // provider.mengurangikuota(60000);
    // }
 
-    Player player = new Player();
+    //Player player = new Player();
 
-        player.moveRight();
-        player.moveLeft();
-        player.moveUp();
-        player.moveDown();
-        player.getDamage();
-        player.getPower();
-        player.attack();
-        player.dash();
-        player.isDead(100);
-        player.isRespawn(99);
-        player.firstSkill(4);
-        player.secondSkill(7);
-        player.ultimateSkill(10);
-        player.getInfo();
+        //player.moveRight();
+        //player.moveLeft();
+        //player.moveUp();
+        //player.moveDown();
+        //player.getDamage();
+        //player.getPower();
+        //player.attack();
+        //player.dash();
+        //player.isDead(100);
+        //player.isRespawn(99);
+        //player.firstSkill(4);
+        //player.secondSkill(7);
+        //player.ultimateSkill(10);
+        //player.getInfo();
 
         //Person person = new Person ();
 
@@ -46,5 +46,10 @@ public class Main {
         //storage.setItem("EsKrimu", "awewonice");    
         //storage.getItem("alikk");  
     //}
+    
+Cookies cookies = new Cookies();
+    cookies.getItem("asdasdasdsadasdasdas");
+
     }
+
 }
